@@ -50,8 +50,8 @@ var EN={
  'hint':`drag me!`
 };
 var DYN={
- pt:{btn:'EN',tip:'English',switchTo:'Mudar idioma para inglês',title:'Manuela · Portfólio (Copy)',typed:'Ciência da Computação',details:'Detalhes',hide:'Ocultar',page:'Página ',seeAll:'Ver todas',seeLess:'Ver menos',subject:'Contato pelo portfólio',nome:'Nome: ',mail:'E-mail: '},
- en:{btn:'PT',tip:'Português',switchTo:'Switch language to Portuguese',title:'Manuela · Portfolio (Copy)',typed:'Computer Science',details:'Details',hide:'Hide',page:'Page ',seeAll:'See all',seeLess:'See less',subject:'Contact via portfolio',nome:'Name: ',mail:'Email: '}
+ pt:{btn:'EN',tip:'English',switchTo:'Mudar idioma para inglês',title:'Manuela Espiúca · Portfólio',typed:'Ciência da Computação',details:'Detalhes',hide:'Ocultar',page:'Página ',seeAll:'Ver todas',seeLess:'Ver menos',subject:'Contato pelo portfólio',nome:'Nome: ',mail:'E-mail: '},
+ en:{btn:'PT',tip:'Português',switchTo:'Switch language to Portuguese',title:'Manuela Espiúca · Portfolio',typed:'Computer Science',details:'Details',hide:'Hide',page:'Page ',seeAll:'See all',seeLess:'See less',subject:'Contact via portfolio',nome:'Name: ',mail:'Email: '}
 };
 var AREAS={'Todas':'All','Programação':'Programming','Design':'Design','Tecnologia':'Technology','Produtividade':'Productivity'};
 function L(k){return DYN[LANG][k];}
